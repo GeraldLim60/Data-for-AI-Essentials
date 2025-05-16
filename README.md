@@ -1,2 +1,2 @@
-# Data-for-AI-Essentials
+# Data-for-AI
 Data Acquisition, Data Exploration and  Data Visualization
